@@ -1,1 +1,1 @@
-# Strapi Headless CMS!
+# Cryptoverse!
