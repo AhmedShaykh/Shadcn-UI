@@ -1,1 +1,1 @@
-# Cryptocurrency Modern Website!
+# NEXT.JS Blog App!
