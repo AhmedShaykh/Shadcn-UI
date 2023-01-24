@@ -1,1 +1,1 @@
-# NEXT.JS Blog App!
+# AI Image Generator MERN App!
