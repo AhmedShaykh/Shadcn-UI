@@ -1,1 +1,1 @@
-# AI Image Generator MERN App!
+# DALL·E 2 Clone Image Generator!
