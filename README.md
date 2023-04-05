@@ -1,1 +1,1 @@
-# DALL·E 2 Clone Image Generator!
+# DALL-E 2 Clone!
