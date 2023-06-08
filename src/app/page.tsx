@@ -1,6 +1,9 @@
+import HomePage from "@/Components/Home";
+
 const Home = () => {
     return (
         <>
+        <HomePage />
         </>
     )
 };
