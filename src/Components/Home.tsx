@@ -3,7 +3,7 @@ import { Mail } from "lucide-react";
 
 const HomePage = () => {
     return (
-        <div className="flex flex-col justify-center items-center h-screen">
+        <div className="flex flex-col justify-center items-center my-8">
             <h1 className="text-4xl font-extrabold tracking-tight lg:text-5xl">
                 Learn Shadcn UI
             </h1>
